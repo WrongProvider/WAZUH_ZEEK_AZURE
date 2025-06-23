@@ -1,4 +1,4 @@
-# Projeto SOC Integrado com Wazuh, Zeek e Azure
+# Projeto SOC Integrado com Wazuh, Zeek e Azure feito no GNS3 (Em Construção)
 
 Este projeto visa a construção de um Security Operations Center (SOC) completo e funcional, com foco em segurança ofensiva e defensiva, utilizando uma arquitetura integrada entre **Wazuh**, **Zeek (Bro IDS)** e **servidores em nuvem Azure**. O objetivo é demonstrar a implementação de um ambiente de monitoramento e detecção de ameaças robusto, capaz de coletar, analisar e correlacionar eventos de segurança de forma eficaz.
 
